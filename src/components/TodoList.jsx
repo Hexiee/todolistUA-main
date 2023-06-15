@@ -1,4 +1,4 @@
-import React, { Fragment, useRef, useState } from "react";
+import React, { Fragment, useRef, useState } from "react"
 
 /* Generar id unicas */
 import uuid4 from "uuid4";
